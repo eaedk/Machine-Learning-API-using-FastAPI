@@ -60,7 +60,7 @@ API :
 
 -   **Good:** Have an API that launches, makes predictions and returns results.
 
--   **Fair:** Have an API that launches but having bugs regarding inputs handeling or returning predictions.
+-   **Fair:** Have an API that launches but having bugs regarding inputs handling or returning predictions.
 
 ## Setup
 
